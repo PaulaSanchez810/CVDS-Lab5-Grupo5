@@ -3,7 +3,7 @@
 
 400 Bad Request: Este error se debe a que no puede procesar la solicitud debido a que hay un error de usuario como puede ser (Sintaxis, una solicitud mal formada, tamaño demasiado grande, enrutamiento de solicitud engañoso) entre otros. 
 
-######Qué otros códigos de error existen?, ¿En qué caso se manejarán?
+**Qué otros códigos de error existen?, ¿En qué caso se manejarán?**
 
 **402 Payment Required**: Este código de error es usado cuando la forma de pago digital es necesaria, para completar la transacción. Esto incluye la necesidad de autenticación de credenciales y objetivos de recursos.
 
