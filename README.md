@@ -181,6 +181,14 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **15.** Diferentes consultas desde el navegador
 
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%202%2C%20item%2015a.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%202%2C%20item%2015b.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%202%2C%20item%2015c.png)
+
 
 # Parte III.
 
