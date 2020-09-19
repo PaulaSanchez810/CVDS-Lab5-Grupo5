@@ -158,9 +158,15 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **6.** Peticiones GET, con parametro "name"
 
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/punto%202%2C%20item%206.png)
+
 **7.** Artefacto gson
 
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/punto%202%2C%20item%207.png)
+
 **8.** cambios al final del path de la url.
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/punto%202%2C%20item%208.png)
 
 **9.** Cree la clase edu.eci.cvds.servlet.model.Todo, con metodos getter y setter.
 
