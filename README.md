@@ -150,6 +150,8 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **4.** Ejecucion del servidor embebido Tomcat.
 
+.![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%202%2C%20item%204.png)
+
 **5.** Peticiones "SampleServiet"
 
 .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%202%2C%20item%205.png)
