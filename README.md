@@ -1,6 +1,6 @@
 # CVDS-Lab5-Grupo5
 
-.![nombre cualquiera](URL)
+
 
 # Parte 1 - Jugando a ser un cliente HTTP
 ## Instalación de TelnetClient en Windows
