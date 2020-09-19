@@ -182,7 +182,9 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 # Parte III.
 
-**16.** Implementacion del doGet.
+**17.** Creacion de archivo html en el directorio especificado.
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%203%20%2C%20item%2017.png)
 
 **18.** Creacion de formulario con campo para el numero
 
