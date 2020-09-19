@@ -201,4 +201,36 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **4.** Creacion de Backing-Bean, con propiedades especificas.
 
+
 **5.** Creacion de página XHTML, calculadora.xtml
+
+  - ¿Qué espacios de nombres XML requiere una página de PrimeFaces?
+  
+  **THEME** : Es el tema de la aplicación.
+  
+  **mobile.THEME** : Es el tema de la aplicacion de mobile.
+  
+  **PUSH_SERVER_URL**: Es el servidor de configuracion del urlpara el push de PrimesFaces.
+  
+  **SUBMIT **: Define el modo de carga de ajax, completo o en particiones.
+  
+  **DIR** : Este se encarga de definir la orientacion, ltr o rtl.
+  
+  **RESET_VALUES**: Cuando esta habilitada, e lajax se actualiza en las entradas y se reinicia.
+  
+  **Secret** :  Teclas secretas encriptadas en expresiones de valores expuestas contenidos de comparticion.
+  
+  **TRANSFORM_METADATA** : Esta se encarga de de transformar y validar el metadata a los atrivutos httml.
+ 
+  
+  -  ¿Cuál es la estructura básica de la misma?
+  
+    La estructura basica se puede evidenciar en la siguiente imagen: 
+    
+    .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Captura%20de%20pantalla%202020-09-19%20021307.jpg)
+    
+    
+    
+    
+  
+    
