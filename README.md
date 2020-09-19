@@ -37,7 +37,7 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 
 ## GET/ html HTPP/1.0
 
-.![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
+.![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/get%20html.png)
 
 
 ## WC -C/HTML
