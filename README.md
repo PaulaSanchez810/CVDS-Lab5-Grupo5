@@ -36,3 +36,25 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 **414 URI Too Long**: EL URI proporcionado (identificador uniforme de recursos) es demasiado largo para que el servidor lo pueda procesar, esto puede ser debido a largas longitudes de cadenas de datos. 
 
 
+
+## GET/ html HTPP/1.0
+
+
+
+
+## WC/HTLML
+
+
+
+
+## ¿Cuál es la diferencia entre los verbos GET y POST? ¿Qué otros tipos de peticiones existen?
+
+Tanto el metodo **GET** como **POST** son protocolos HTTP el cual se encargan de enviar al servidor como peticiones(request) y este recibe una respuesta a dicha solicititud (responde).
+
+**GET**: Se encarga de obtener informacion del servidor, trae los datos que estan almacenados en el servidor, ya sea una base de datos o un archivo al cliente. Esto deriva independientemente de que tengamos que enviar(request) algun datos sera procesado, para luego devolver una respuesta(response.
+
+**POST** : Este en cambio se encarga de enviar información desde el cliente para que este pueda ser procesada por y puede ser actualizadaa o agregada informacion en el servidor, como podria ser la carga o actualizacion en si de un articulo. Cuando se envia(request) datos a través de un formulario, estos son procesados y leugo a traves de una redireccion, se devuelve un (response) alguna página con información.
+
+Tanto **GET** como **POST** solicitan una respuesta al servidor. Enviar datos en una **URL** y actualizar o insertar dicha informacion, este podria ser un metodo **POST** Y seria un llamado **GET**. Por tango se puede concluir que las llamadas por metodo **GET** pueden ser cacheadas( historial de navegador), indexadas por un navegador. El metodo **POST** no puede realalizar dicha tarea. 
+
+Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es simplemente “solicitar” una información (pagina) al servidor y que sea devuelta como una respuesta. Mientras usamos formularios para actualizar datos, como artículos, usuarios, etc. también en cuenta que por el método POST también se puede enviar más cantidad de datos que por GET.
