@@ -85,6 +85,23 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 - Curl www.httpbin.org
 
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl/parte1.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl/parte2.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl/Parte%203.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl/parte%204.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl/parte%205.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl/parte%206.png)
+
 
 
 
