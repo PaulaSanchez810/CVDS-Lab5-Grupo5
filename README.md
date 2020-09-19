@@ -5,7 +5,7 @@
 # Parte 1 - Jugando a ser un cliente HTTP
 ## Instalación de TelnetClient en Windows
 
-.![error](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image%20(2).png)
+.![error](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
 
 ## Resultados de ejecución
 **Revise el resultado obtenido. ¿Qué codigo de error sale?, revise el significado del mismo en la lista de códigos de estado HTTP.**
