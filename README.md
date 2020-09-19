@@ -126,6 +126,18 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 - Curl- i www.httpbin.org
 
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte1.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte2.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte3.png)
+
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte4.png)
+
 ## ¿Cuáles son las diferencias con los diferentes parámetros?
 - -v verbose Make the Operation more talkative.
 - -i include protocol response headers in the output. 
