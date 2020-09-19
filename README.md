@@ -5,7 +5,7 @@
 # Parte 1 - Jugando a ser un cliente HTTP
 ## Instalación de TelnetClient en Windows
 
-.![error](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image%20(2).png)
+.![error](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
 
 ## Resultados de ejecución
 **Revise el resultado obtenido. ¿Qué codigo de error sale?, revise el significado del mismo en la lista de códigos de estado HTTP.**
@@ -37,7 +37,7 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 
 ## GET/ html HTPP/1.0
 
-.![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
+.![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/get%20html.png)
 
 
 ## WC -C/HTML
@@ -108,9 +108,35 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 - Curl -v www.httpbin.org
 
+.![nombre parte1](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%201.png)
+
+
+
+.![nombre parte2](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%202.png)
+
+
+
+.![nombre parte 3](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%203.png)
+
+
+
+.![nombre parte 4](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%204.png)
+
 
 
 - Curl- i www.httpbin.org
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte1.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte2.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte3.png)
+
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-i/parte4.png)
 
 ## ¿Cuáles son las diferencias con los diferentes parámetros?
 - -v verbose Make the Operation more talkative.
@@ -124,7 +150,7 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **5.** Peticiones "SampleServiet"
 
-**6.** Petición GET, con parametro "name"
+**6.** Peticiones GET, con parametro "name"
 
 **7.** Artefacto gson
 
@@ -155,5 +181,56 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 **20.** Recopilacion y ejecucion de la aplicación.
 
   - Qué diferencia observa?
+  
+  Se puede evidenciar que la forma en la que se envia la información cambia. Esto se debe a que esta haciendo uso del metodo GET,   el cual se podran evidenciar los parametros utilizados (mediante URL). Ocasionando que con el metodo POST estos parametros van     ocultos al usuario.
+  
+  
 
-**21.** 
+**21.**  Revisión de la clase **service.java**
+
+  - ¿Qué se está viendo?
+  
+    Se ve las peticiones y las solicitudes del servidor jsonplaceholder. Encargandose de mandarle el parametro de id solicitado,      abriendo la conexión realizada y luego la cierra. Además se encarga de realizar la conexion de los datos obtenidos y los coloca   en columnas y para finalizar los pone en un tabla.
+    
+
+# Parte IV. - Frameworks Web MVC – Java Server Faces / Prime Faces
+
+**1.** Agregación de las dependencias mas recientes y Primefaces
+
+**2.** Despliege de aplicación, archivo web.html
+
+**4.** Creacion de Backing-Bean, con propiedades especificas.
+
+
+**5.** Creacion de página XHTML, calculadora.xtml
+
+  - ¿Qué espacios de nombres XML requiere una página de PrimeFaces?
+  
+  **THEME** : Es el tema de la aplicación.
+  
+  **mobile.THEME** : Es el tema de la aplicacion de mobile.
+  
+  **PUSH_SERVER_URL**: Es el servidor de configuracion del urlpara el push de PrimesFaces.
+  
+  **SUBMIT **: Define el modo de carga de ajax, completo o en particiones.
+  
+  **DIR** : Este se encarga de definir la orientacion, ltr o rtl.
+  
+  **RESET_VALUES**: Cuando esta habilitada, e lajax se actualiza en las entradas y se reinicia.
+  
+  **Secret** :  Teclas secretas encriptadas en expresiones de valores expuestas contenidos de comparticion.
+  
+  **TRANSFORM_METADATA** : Esta se encarga de de transformar y validar el metadata a los atrivutos httml.
+ 
+  
+  -  ¿Cuál es la estructura básica de la misma?
+  
+    La estructura basica se puede evidenciar en la siguiente imagen: 
+    
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/partes.jpg)
+    
+    
+    
+    
+  
+    
