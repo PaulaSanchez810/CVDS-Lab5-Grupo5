@@ -1,6 +1,8 @@
 # CVDS-Lab5-Grupo5
 
-## Parte 1 - Jugando a ser un cliente HTTP
+
+
+# Parte 1 - Jugando a ser un cliente HTTP
 ## Instalación de TelnetClient en Windows
 
 .![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
