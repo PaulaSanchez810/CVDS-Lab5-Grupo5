@@ -192,6 +192,8 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **19.** Validación del valor ingresado es numerico
 
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%203%2C%20item%2019.jpg)
+
 **20.** Recopilacion y ejecucion de la aplicación.
 
   - Qué diferencia observa?
