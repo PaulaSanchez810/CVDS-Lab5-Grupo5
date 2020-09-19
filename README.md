@@ -60,7 +60,7 @@ Tanto **GET** como **POST** solicitan una respuesta al servidor. Enviar datos en
 Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es simplemente “solicitar” una información (pagina) al servidor y que sea devuelta como una respuesta. Mientras usamos formularios para actualizar datos, como artículos, usuarios, etc. también en cuenta que por el método POST también se puede enviar más cantidad de datos que por GET.
 
 
-##¿Qué otros tipos de peticiones existen?
+## ¿Qué otros tipos de peticiones existen?
 
 **HEAD** : El método HEAD pide una respuesta idéntica a la de una petición GET, pero sin el cuerpo de la respuesta.
 
@@ -79,4 +79,24 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 **TRACE** : El método TRACE  realiza una prueba de bucle de retorno de mensaje a lo largo de la ruta al recurso de destino.
 
 **PATCH**: El método PATCH  es utilizado para aplicar modificaciones parciales a un recurso.
+
+## CURL
+
+- Curl www.httpbin.org
+
+
+
+
+
+- Curl -v www.httpbin.org
+
+
+
+- Curl- i www.httpbin.org
+
+## ¿Cuáles son las diferencias con los diferentes parámetros?
+- -v verbose Make the Operation more talkative.
+- -i include protocol response headers in the output. 
+
+# Parte II. - Haciendo una aplicación Web dinámica a bajo nivel.
 
