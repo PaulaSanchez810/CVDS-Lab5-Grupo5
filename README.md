@@ -226,19 +226,19 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
   - ¿Qué espacios de nombres XML requiere una página de PrimeFaces?
   
-  **THEME** : Es el tema de la aplicación.
+    **THEME** : Es el tema de la aplicación.
   
-  **mobile.THEME** : Es el tema de la aplicacion de mobile.
+    **mobile.THEME** : Es el tema de la aplicacion de mobile.
   
-  **PUSH_SERVER_URL**: Es el servidor de configuracion del urlpara el push de PrimesFaces.
+    **PUSH_SERVER_URL**: Es el servidor de configuracion del urlpara el push de PrimesFaces.
   
-  **SUBMIT **: Define el modo de carga de ajax, completo o en particiones.
+    **SUBMIT **: Define el modo de carga de ajax, completo o en particiones.
   
-  **DIR** : Este se encarga de definir la orientacion, ltr o rtl.
+    **DIR** : Este se encarga de definir la orientacion, ltr o rtl.
   
-  **RESET_VALUES**: Cuando esta habilitada, e lajax se actualiza en las entradas y se reinicia.
+    **RESET_VALUES**: Cuando esta habilitada, e lajax se actualiza en las entradas y se reinicia.
   
-  **Secret** :  Teclas secretas encriptadas en expresiones de valores expuestas contenidos de comparticion.
+    **Secret** :  Teclas secretas encriptadas en expresiones de valores expuestas contenidos de comparticion.
   
   **TRANSFORM_METADATA** : Esta se encarga de de transformar y validar el metadata a los atrivutos httml.
  
