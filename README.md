@@ -227,7 +227,7 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
   
     La estructura basica se puede evidenciar en la siguiente imagen: 
     
-  .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Captura%20de%20pantalla%202020-    09-19%20021307.jpg)
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/partes.jpg)
     
     
     
