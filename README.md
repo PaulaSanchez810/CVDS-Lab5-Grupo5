@@ -47,7 +47,7 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 
 
 
-## ¿Cuál es la diferencia entre los verbos GET y POST? ¿Qué otros tipos de peticiones existen?
+## ¿Cuál es la diferencia entre los verbos GET y POST? 
 
 Tanto el metodo **GET** como **POST** son protocolos HTTP el cual se encargan de enviar al servidor como peticiones(request) y este recibe una respuesta a dicha solicititud (responde).
 
@@ -58,3 +58,25 @@ Tanto el metodo **GET** como **POST** son protocolos HTTP el cual se encargan de
 Tanto **GET** como **POST** solicitan una respuesta al servidor. Enviar datos en una **URL** y actualizar o insertar dicha informacion, este podria ser un metodo **POST** Y seria un llamado **GET**. Por tango se puede concluir que las llamadas por metodo **GET** pueden ser cacheadas( historial de navegador), indexadas por un navegador. El metodo **POST** no puede realalizar dicha tarea. 
 
 Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es simplemente “solicitar” una información (pagina) al servidor y que sea devuelta como una respuesta. Mientras usamos formularios para actualizar datos, como artículos, usuarios, etc. también en cuenta que por el método POST también se puede enviar más cantidad de datos que por GET.
+
+
+##¿Qué otros tipos de peticiones existen?
+
+**HEAD** : El método HEAD pide una respuesta idéntica a la de una petición GET, pero sin el cuerpo de la respuesta.
+
+**POST** : El método POST se utiliza para enviar una entidad a un recurso en específico, causando a menudo un cambio en el estado o efectos secundarios en el servidor.
+
+**GET** : El método GET  solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben recuperar datos.
+
+**PUT** : El modo PUT reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición.
+
+**DELETE**: El método DELETE borra un recurso en específico.
+
+**CONNECT**: El método CONNECT establece un túnel hacia el servidor identificado por el recurso.
+
+**OPTIONS**: El método OPTIONS es utilizado para describir las opciones de comunicación para el recurso de destino.
+
+**TRACE** : El método TRACE  realiza una prueba de bucle de retorno de mensaje a lo largo de la ruta al recurso de destino.
+
+**PATCH**: El método PATCH  es utilizado para aplicar modificaciones parciales a un recurso.
+
