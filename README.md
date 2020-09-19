@@ -100,3 +100,10 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 # Parte II. - Haciendo una aplicación Web dinámica a bajo nivel.
 
+**2.** En el pom.xmL, agregue la siguiente dependencia:
+
+**4.** Ejecucion del servidor embebido Tomcat.
+
+**5.** Peticiones "SampleServiet"
+
+**6.** Petición GET, con parametro "name"
