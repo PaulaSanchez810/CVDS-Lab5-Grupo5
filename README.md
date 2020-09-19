@@ -40,7 +40,7 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 .![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
 
 
-## WC/HTLML
+## WC/HTml
 
 
 
