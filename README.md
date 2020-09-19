@@ -42,7 +42,7 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 
 ## WC -C/HTML
 - El comando Wc solo es para linux, por ende no deja ejcutarlo en cmd, ocasionando que tengamos que contar las palabras en el word.
-.![WC -C/HTML](URL)
+.![WC -C/HTML](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image%20(5).png)
 
 
 
