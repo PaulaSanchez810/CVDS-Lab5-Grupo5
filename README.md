@@ -240,6 +240,25 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
     La estructura basica se puede evidenciar en la siguiente imagen: 
     
 .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/partes.jpg)
+
+**6.** Indentificador calculadora_form
+
+**7.** Elementos agregados a cada item.
+
+**8.** Botones tipo <p:commandButton>
+
+**9.** Plugin tomcat runner, fase contrucción
+
+**10.** Implementacion de pruebas.
+
+  -  Haga cinco intentos en uno, y luego un intento en el otro. ¿Qué valor tiene cada uno?
+  
+  - Aborte Tomcat runner, reinicie la aplicacion y repita lo anterior. ¿Cuál es la diferencia entre los backing-beans de sesión y     los de aplicación?
+  
+  
+
+**11.** Lista de los ultimos valores ingresados.
+
     
     
     
