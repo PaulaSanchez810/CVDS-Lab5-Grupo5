@@ -5,8 +5,6 @@
 # Parte 1 - Jugando a ser un cliente HTTP
 ## Instalación de TelnetClient en Windows
 
-.![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
-.![activación del tenelclient](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image%20(1).png)
 .![error](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image%20(2).png)
 
 ## Resultados de ejecución
@@ -39,7 +37,7 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 
 ## GET/ html HTPP/1.0
 
-
+.![panel de control](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/MicrosoftTeams-image.png)
 
 
 ## WC/HTLML
