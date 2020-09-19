@@ -150,7 +150,7 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **5.** Peticiones "SampleServiet"
 
-**6.** Petición GET, con parametro "name"
+**6.** Peticiones GET, con parametro "name"
 
 **7.** Artefacto gson
 
