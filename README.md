@@ -41,7 +41,7 @@ o	404 Not Found: Este tipo de error nos indica que el recurso solicitado no ha s
 
 
 ## WC -C/HTML
-
+- El comando Wc solo es para linux, por ende no deja ejcutarlo en cmd, ocasionando que tengamos que contar las palabras en el word.
 .![WC -C/HTML](URL)
 
 
@@ -123,3 +123,18 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 **14.** Recopilacion y ejecucion de la aplicacion. 
 
 **15.** Diferentes consultas desde el navegador
+
+
+# Parte III.
+
+**16.** Implementacion del doGet.
+
+**18.** Creacion de formulario con campo para el numero
+
+**19.** Validación del valor ingresado es numerico
+
+**20.** Recopilacion y ejecucion de la aplicación.
+
+  - Qué diferencia observa?
+
+**21.** 
