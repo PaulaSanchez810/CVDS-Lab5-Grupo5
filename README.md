@@ -107,3 +107,20 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 **5.** Peticiones "SampleServiet"
 
 **6.** Petición GET, con parametro "name"
+
+**7.** Artefacto gson
+
+**8.** cambios al final del path de la url.
+
+**9.** Cree la clase edu.eci.cvds.servlet.model.Todo, con metodos getter y setter.
+
+**11.** Creacion clase HttpServlet
+
+**12.** Metodos de antoación @WebServlet, definiendo la propiedad urlPatterns. 
+
+
+**13.** Implementacion del metodo.
+
+**14.** Recopilacion y ejecucion de la aplicacion. 
+
+**15.** Diferentes consultas desde el navegador
