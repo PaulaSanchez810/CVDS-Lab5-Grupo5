@@ -1,6 +1,6 @@
 # CVDS-Lab5-Grupo5
 
-
+.![nombre cualquiera](URL)
 
 # Parte 1 - Jugando a ser un cliente HTTP
 ## Instalación de TelnetClient en Windows
@@ -107,6 +107,20 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 
 - Curl -v www.httpbin.org
+
+.![nombre parte1](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%201.png)
+
+
+
+.![nombre parte2](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%202.png)
+
+
+
+.![nombre parte 3](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%203.png)
+
+
+
+.![nombre parte 4](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/curl%20-v/parte%204.png)
 
 
 
