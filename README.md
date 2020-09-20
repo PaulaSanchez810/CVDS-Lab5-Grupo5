@@ -266,12 +266,8 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
   - Aborte Tomcat runner, reinicie la aplicacion y repita lo anterior. ¿Cuál es la diferencia entre los backing-beans de sesión y     los de aplicación?
  * un backing bean es la clase fuera de contexto
  * un managed bean es el backing bean cuando se declara para ser utilizado con el jsf managed bean instalación.
-
-
-Fuente: https://www.iteramos.com/pregunta/48657/diferencia-entre-bean-gestionado-y-backing-bean
   
   
-
 **11.** Lista de los ultimos valores ingresados.
 .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%204%2C%20item11.png)
 
