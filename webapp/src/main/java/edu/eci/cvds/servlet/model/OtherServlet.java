@@ -18,10 +18,39 @@ import java.util.Optional;
         urlPatterns = "/todoServlet"
 )
 public class OtherServlet extends HttpServlet {
-    static final long serialVersionUID = 1L;
+    static final long serialVersionUID = 35L;
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        Writer responseWriter = resp.getWriter();
+        Optional<String> optId = Optional.ofNullable(req.getParameter("id"));
+        String stringId = optId.isPresent() && !optId.get().isEmpty() ? optId.get() : "";
+
+        try
+        {
+            int intId = Integer.parseInt(stringId);
+            Todo todo = Service.getTodo(intId);
+            List<Todo> todoList = new ArrayList<>();
+            todoList.add(todo);
+            responseWriter.write(Service.todosToHTMLTable(todoList));
+            resp.setStatus(HttpServletResponse.SC_OK);
+            responseWriter.flush();
+        }
+        catch (MalformedURLException e) {
+            resp.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
+        }
+        catch (FileNotFoundException e) {
+            resp.setStatus(HttpServletResponse.SC_NOT_FOUND);
+            responseWriter.write("requerimiento inválido");
+        }
+        catch (Exception e)
+        {
+            resp.setStatus(HttpServletResponse.SC_BAD_REQUEST);
+        }
+    }
+
+    @Override
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         Writer responseWriter = resp.getWriter();
         Optional<String> optId = Optional.ofNullable(req.getParameter("id"));
         String id = optId.isPresent() && !optId.get().isEmpty() ? optId.get() : "";
@@ -47,10 +76,5 @@ public class OtherServlet extends HttpServlet {
         {
             resp.setStatus(HttpServletResponse.SC_BAD_REQUEST);
         }
-    }
-
-    @Override
-    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        doGet(req, resp);
     }
 }
