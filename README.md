@@ -212,7 +212,10 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **1.** Agregación de las dependencias mas recientes y Primefaces
 
+![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%204%2C%20item1.png)
+
 **2.** Despliege de aplicación, archivo web.html
+![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%204%2C%20item2.png)
 
 **4.** Creacion de Backing-Bean, con propiedades especificas.
 
@@ -253,6 +256,7 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 **9.** Plugin tomcat runner, fase contrucción
 
 **10.** Implementacion de pruebas.
+
 
   -  Haga cinco intentos en uno, y luego un intento en el otro. ¿Qué valor tiene cada uno?
   
