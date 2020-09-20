@@ -210,6 +210,10 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 # Parte IV. - Frameworks Web MVC – Java Server Faces / Prime Faces
 
+## Diagrama de casos de uso de la aplicación
+![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/diagrama1.png)
+## Diagrama de clase de la aplicaion:
+![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/diagrama%202.png)
 **1.** Agregación de las dependencias mas recientes y Primefaces
 
 ![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%204%2C%20item1.png)
