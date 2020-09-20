@@ -186,16 +186,15 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%203%20%2C%20item%2017.png)
 
-**18.** Creacion de formulario con campo para el numero
-
-.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%203%2C%20item%2018.jpg)
-
-**19.** Validación del valor ingresado es numerico
+**18.19.** Creacion de formulario con campo para el numero y Validación del valor ingresado es numerico
 
 .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%203%2C%20item19.png)
 
 **20.** Recopilacion y ejecucion de la aplicación.
 
+![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%203%2Citem20.1.png)
+![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%203%2Citem20.2.png)
+![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%203%2Citem20.3.png)
   - Qué diferencia observa?
   
   Se puede evidenciar que la forma en la que se envia la información cambia. Esto se debe a que esta haciendo uso del metodo GET,   el cual se podran evidenciar los parametros utilizados (mediante URL). Ocasionando que con el metodo POST estos parametros van     ocultos al usuario.
