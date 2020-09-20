@@ -257,7 +257,7 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 **10.** Implementacion de pruebas.
 
-
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%204%2C%20item10.png)
   -  Haga cinco intentos en uno, y luego un intento en el otro. ¿Qué valor tiene cada uno?
   
   - Aborte Tomcat runner, reinicie la aplicacion y repita lo anterior. ¿Cuál es la diferencia entre los backing-beans de sesión y     los de aplicación?
@@ -265,6 +265,7 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
   
 
 **11.** Lista de los ultimos valores ingresados.
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%204%2C%20item11.png)
 
     
     
