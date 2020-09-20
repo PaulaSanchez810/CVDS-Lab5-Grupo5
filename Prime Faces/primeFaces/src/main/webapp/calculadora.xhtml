@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://java.sun.com/jsf/core">
+
+<h:head>
+</h:head>
+<h:form id="calculadora_form">
+    <h1>Calculadora</h1>
+    <p>Ingrese los número a evaluar</p>
+    <p>forma de ingresar número n1;n2;n3</p>
+    <!--p:outputLabel
+    value="Valor de la moda: #{calculadoraBean.getModa()}">
+    </p:outputLabel-->
+    <br></br>
+    <p> Ingrese la lista númerica:</p>
+    <span class="ui-float-label">
+           <p:inputText id="numbers" binding="#{numbers}" />
+    </span>
+    <br></br>
+    <br></br>
+    <p:outputLabel
+            value="Números ingresados : #{calculadoraBean.getNumbers()}">
+    </p:outputLabel>
+    <br></br>
+    <p:outputLabel
+            value="Calculo del Promedio: #{calculadoraBean.getPromedio()}">
+    </p:outputLabel>
+    <br></br>
+    <p:outputLabel
+            value=" Calculo de la Desviacion Estandar : #{calculadoraBean.getDevEstandar()}">
+    </p:outputLabel>
+    <br></br>
+    <p:outputLabel
+            value="Calculo de la varianza : #{calculadoraBean.getVarianza()}">
+    </p:outputLabel>
+    <br></br>
+    <p:outputLabel
+            value="Calculo de la moda : #{calculadoraBean.getModa()}">
+    </p:outputLabel>
+    <br></br>
+    <p:outputLabel
+            value="Cantidad de números ingresados: #{calculadoraBean.getCantNumbers()}">
+    </p:outputLabel>
+    <br></br>
+    <br></br>
+    <p:commandButton
+            value="Calcular operaciones" actionListener="#{calculadoraBean.setNumbersWeb(numbers.value)}" update="calculadora_form" >
+    </p:commandButton>
+    <br></br>
+    <h2> Historial de numeros ingresados: </h2>
+    <p:dataTable value="#{calculadoraBean.getHistoria()}" var="item">
+        <p:column headerText="Historial" filterMatchMode="contains">
+            <p.center>
+                <p:outputLabel value ="#{item}"/>
+            </p.center>
+        </p:column>
+    </p:dataTable>
+    <br></br>
+    <p:commandButton
+            value="Limpiar historial" actionListener="#{calculadoraBean.restart()}" update="calculadora_form" >
+    </p:commandButton>
+</h:form>
+</html>
