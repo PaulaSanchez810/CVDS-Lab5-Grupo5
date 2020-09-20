@@ -168,27 +168,31 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
 .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/punto%202%2C%20item%208.png)
 
-**9.** Cree la clase edu.eci.cvds.servlet.model.Todo, con metodos getter y setter.
-
-**11.** Creacion clase HttpServlet
-
-**12.** Metodos de antoación @WebServlet, definiendo la propiedad urlPatterns. 
-
-
-**13.** Implementacion del metodo.
-
-**14.** Recopilacion y ejecucion de la aplicacion. 
 
 **15.** Diferentes consultas desde el navegador
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%202%2C%20item%2015a.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%202%2C%20item%2015b.png)
+
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/Parte%202%2C%20item%2015c.png)
 
 
 # Parte III.
 
-**16.** Implementacion del doGet.
+**17.** Creacion de archivo html en el directorio especificado.
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%203%20%2C%20item%2017.png)
 
 **18.** Creacion de formulario con campo para el numero
 
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%203%2C%20item%2018.jpg)
+
 **19.** Validación del valor ingresado es numerico
+
+.![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/parte%203%2C%20item%2019.jpg)
 
 **20.** Recopilacion y ejecucion de la aplicación.
 
@@ -218,19 +222,19 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
 
   - ¿Qué espacios de nombres XML requiere una página de PrimeFaces?
   
-  **THEME** : Es el tema de la aplicación.
+    **THEME** : Es el tema de la aplicación.
   
-  **mobile.THEME** : Es el tema de la aplicacion de mobile.
+    **mobile.THEME** : Es el tema de la aplicacion de mobile.
   
-  **PUSH_SERVER_URL**: Es el servidor de configuracion del urlpara el push de PrimesFaces.
+    **PUSH_SERVER_URL**: Es el servidor de configuracion del urlpara el push de PrimesFaces.
   
-  **SUBMIT **: Define el modo de carga de ajax, completo o en particiones.
+    **SUBMIT **: Define el modo de carga de ajax, completo o en particiones.
   
-  **DIR** : Este se encarga de definir la orientacion, ltr o rtl.
+    **DIR** : Este se encarga de definir la orientacion, ltr o rtl.
   
-  **RESET_VALUES**: Cuando esta habilitada, e lajax se actualiza en las entradas y se reinicia.
+    **RESET_VALUES**: Cuando esta habilitada, e lajax se actualiza en las entradas y se reinicia.
   
-  **Secret** :  Teclas secretas encriptadas en expresiones de valores expuestas contenidos de comparticion.
+    **Secret** :  Teclas secretas encriptadas en expresiones de valores expuestas contenidos de comparticion.
   
   **TRANSFORM_METADATA** : Esta se encarga de de transformar y validar el metadata a los atrivutos httml.
  
@@ -240,6 +244,25 @@ Generalmente usamos links para ejecutar llamadas GET ya que la idea del link es 
     La estructura basica se puede evidenciar en la siguiente imagen: 
     
 .![nombre cualquiera](https://github.com/PaulaSanchez810/CVDS-Lab5-Grupo5/blob/master/Imagenes/partes.jpg)
+
+**6.** Indentificador calculadora_form
+
+**7.** Elementos agregados a cada item.
+
+**8.** Botones tipo <p:commandButton>
+
+**9.** Plugin tomcat runner, fase contrucción
+
+**10.** Implementacion de pruebas.
+
+  -  Haga cinco intentos en uno, y luego un intento en el otro. ¿Qué valor tiene cada uno?
+  
+  - Aborte Tomcat runner, reinicie la aplicacion y repita lo anterior. ¿Cuál es la diferencia entre los backing-beans de sesión y     los de aplicación?
+  
+  
+
+**11.** Lista de los ultimos valores ingresados.
+
     
     
     
